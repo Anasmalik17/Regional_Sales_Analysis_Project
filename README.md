@@ -8,7 +8,7 @@ The Excel file provided in the repository is used in the project.
 
 
 ## Files Included
-Detailed reports
-Code files
-Documentation on analytics methodologies
-Visualizations and dashboards
+1. Detailed reports
+2. Code files
+3. Documentation on analytics methodologies
+4. Visualizations and dashboards
